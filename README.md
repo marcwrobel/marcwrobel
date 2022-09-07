@@ -1,5 +1,11 @@
 ## Hi there, I'm Marc Wrobel, a developer from France 👋
 
+[![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)](https://github.com/marcwrobel)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcwrobelfr)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-orange?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/374236/marc-wrobel)
+[![Blog](https://img.shields.io/badge/-Blog-darkgreen?style=flat&logo=wordpress&logoColor=white)](mailto:marc.wrobel@gmail.com)
+[![Mail](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:marc.wrobel@gmail.com)
+
 <!--
 Here are some ideas to get you started:
 
