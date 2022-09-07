@@ -6,10 +6,6 @@
 [![Blog](https://img.shields.io/badge/-Blog-darkgreen?style=flat&logo=wordpress&logoColor=white)](mailto:marc.wrobel@gmail.com)
 [![Mail](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:marc.wrobel@gmail.com)
 
-<details>
-  <summary>More...</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=marcwrobel&show_icons=true&count_private=true" alt="Marc Wrobel's GitHub stats" />
-</details>
 <!--
 Here are some ideas to get you started:
 
