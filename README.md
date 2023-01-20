@@ -6,6 +6,10 @@
 [![Blog](https://img.shields.io/badge/-Blog-darkgreen?style=flat&logo=wordpress&logoColor=white)](mailto:marc.wrobel@gmail.com)
 [![Mail](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:marc.wrobel@gmail.com)
 
+| <a href="https://github.com/marcwrobel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcwrobel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/marcwrobel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcwrobel&layout=compact&theme=buefy&hide_border=true" /></a> |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 <!--
 Here are some ideas to get you started:
 
